@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766752543965",
+    "project_id": "mike-food-delivery",
+    "storage_bucket": "mike-food-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766752543965:android:25ab5e9d687b10b0c57734",
+        "android_client_info": {
+          "package_name": "com.mike.seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766752543965-gkecmhnvksi3euanv4duh459csvqk8ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAio2CAFFR-ik81qBDxMISrui3O_9F-92o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766752543965-gkecmhnvksi3euanv4duh459csvqk8ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
